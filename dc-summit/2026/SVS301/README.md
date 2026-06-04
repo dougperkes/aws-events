@@ -9,9 +9,7 @@ Discover how to architect scalable, production-ready agentic AI applications on 
 
 ### Presenters
  - Sindhu Pillai, Principal Solutions Architect, Amazon Web Services
-    <!-- - Linktree: [https://linktr.ee/heekipark](https://linktr.ee/heekipark) -->
  - Doug Perkes, Senior Solutions Architect, Amazon Web Services 
-    - Linktree: [https://linktr.ee/dmahapatro](https://linktr.ee/dmahapatro)
     - LinkedIn: @dougperkes
     - GitHub: @dougperkes
 
