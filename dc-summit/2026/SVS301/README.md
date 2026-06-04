@@ -1,4 +1,4 @@
-## CNS359 - Build, deploy, and operate agentic architectures on AWS Serverless
+## SVS301 - Build, deploy, and operate agentic architectures on AWS Serverless
 AWS DC Summit 2026
 
 ### Session Type
