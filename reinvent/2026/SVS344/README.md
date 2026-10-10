@@ -25,7 +25,7 @@ TBD
 
 ### Slides
 
-
+[SVS344 Slides](svs344.pdf)
 
 ### Blogs
 
