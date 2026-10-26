@@ -24,5 +24,5 @@ if [ ! -f /var/www/html/index.html ]; then
   rm -f index.html
 fi
 cd /var/www/html
-wget https://dougperkes.github.io/aws-events/workshop/aws101/resources/index.php
+wget https://dougperkes.github.io/aws-events/workshops/aws101/resources/index.php
 ```
