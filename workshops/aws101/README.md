@@ -1,6 +1,6 @@
 # AWS 101 Resources
 
-Workshop Join Link: https://catalog.us-east-1.prod.workshops.aws/join?access-code=f3c6-06d01e-a0
+Click here first: [Workshop Join Link](https://catalog.us-east-1.prod.workshops.aws/join?access-code=f3c6-06d01e-a0)
 
 ## Deploy Compute section
 
